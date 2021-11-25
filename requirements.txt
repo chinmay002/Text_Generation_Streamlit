@@ -8,5 +8,5 @@ numpy>=1.9.2
 scipy>=0.15.1
 
 flasgger==0.9.4
-tensorflow==2.2.0
+tensorflow==2.2
 streamlit
